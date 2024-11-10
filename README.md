@@ -1,1 +1,1 @@
-# demo_app
+# Application A
